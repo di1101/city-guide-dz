@@ -1,0 +1,110 @@
+/* Мои цвета:
+   фон —color: gray
+   текст — color: black
+   акцент — color: burgundy
+*/
+
+body {
+  color: rgb(59, 14, 14);
+  background-color: rgb(140, 129, 129);
+  margin: 0;
+  font-family: "comic sans ms", sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+}
+h1,
+h2,
+h3 {
+  color: rgb(139, 2, 2);
+}
+h1 {
+  font-size: 30px;
+}
+h2 {
+  font-size: 26px;
+}
+h3 {
+  font-size: 22px;
+}
+.accent {
+  color: orange;
+}
+.logo {
+  font-size: 24px;
+  font-weight: bold;
+}
+.hero-label {
+  font-size: 20px;
+  font-weight: bold;
+}
+a {
+  text-decoration: none;
+}
+.site-header {
+  background-color: pink;
+  padding: 20px;
+}
+.menu a {
+  color: rgb(41, 9, 81);
+  margin-right: 15px;
+}
+.button {
+  display: inline-block;
+  background-color: pink;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+.button-outline {
+  background-color: greenyellow;
+  color: white;
+  border: 2px solid rgb(41, 9, 81);
+}
+
+.card {
+  width: 300px;
+  box-sizing: border-box;
+  padding: 50px;
+  border: 2px solid rgb(41, 9, 81);
+  border-radius: 10px;
+  background-color: rgb(118, 182, 197);
+  margin-bottom: 20px;
+}
+.card-top {
+  border: 2px solid rgb(9, 81, 64);
+  background-color: rgb(39, 129, 149);
+}
+.card-icon {
+  font-size: 40px;
+}
+.card h3 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.card-info {
+  font-size: 14px;
+  font-weight: bold;
+  color: darkblue;
+}
+.hero,
+.places,
+.tips {
+  padding: 50px;
+}
+.note {
+  background-color: rgb(155, 108, 212);
+  padding: 20px;
+  border-left: 2px solid rgb(139, 2, 2);
+}
+.site-footer {
+  background-color: rgb(181, 79, 79);
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+/* Измерения карточки в DevTools:
+   Ширина содержимого: 196px
+   Padding: 50px со всех сторон
+   Border: 2px со всех сторон
+   Margin снизу: 20px
+*/
