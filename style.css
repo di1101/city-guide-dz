@@ -60,3 +60,24 @@ a {
   color: white;
   border: 2px solid rgb(41, 9, 81);
 }
+.card {
+  width: 300px;
+  box-sizing: border-box;
+  padding: 50px;
+  border: 2px solid rgb(41, 9, 81);
+  border-radius: 10px;
+  background-color: rgb(118, 182, 197);
+  margin-bottom: 20px;
+}
+.card-icon {
+  font-size: 40px;
+}
+.card h3 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.card-info {
+  font-size: 14px;
+  font-weight: bold;
+  color: darkblue;
+}
