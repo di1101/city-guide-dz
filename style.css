@@ -81,3 +81,19 @@ a {
   font-weight: bold;
   color: darkblue;
 }
+.hero,
+.places,
+.tips {
+  padding: 50px;
+}
+.note {
+  background-color: rgb(155, 108, 212);
+  padding: 20px;
+  border-left: 2px solid rgb(139, 2, 2);
+}
+.site-footer {
+  background-color: rgb(181, 79, 79);
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
