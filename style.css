@@ -60,6 +60,7 @@ a {
   color: white;
   border: 2px solid rgb(41, 9, 81);
 }
+
 .card {
   width: 300px;
   box-sizing: border-box;
@@ -68,6 +69,10 @@ a {
   border-radius: 10px;
   background-color: rgb(118, 182, 197);
   margin-bottom: 20px;
+}
+.card-top {
+  border: 2px solid rgb(9, 81, 64);
+  background-color: rgb(39, 129, 149);
 }
 .card-icon {
   font-size: 40px;
