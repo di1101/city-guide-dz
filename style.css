@@ -1,0 +1,14 @@
+/* Мои цвета:
+   фон —color: gray
+   текст — color: black
+   акцент — color: burgundy
+*/
+
+body {
+  color: rgb(59, 14, 14);
+  background-color: rgb(140, 129, 129);
+  margin: 0;
+  font-family: "comic sans ms", sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+}
