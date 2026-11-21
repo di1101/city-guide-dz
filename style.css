@@ -48,3 +48,15 @@ a {
   color: rgb(41, 9, 81);
   margin-right: 15px;
 }
+.button {
+  display: inline-block;
+  background-color: pink;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+.button-outline {
+  background-color: greenyellow;
+  color: white;
+  border: 2px solid rgb(41, 9, 81);
+}
