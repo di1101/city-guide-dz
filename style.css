@@ -102,3 +102,9 @@ a {
   text-align: center;
   padding: 20px;
 }
+/* Измерения карточки в DevTools:
+   Ширина содержимого: 196px
+   Padding: 50px со всех сторон
+   Border: 2px со всех сторон
+   Margin снизу: 20px
+*/
